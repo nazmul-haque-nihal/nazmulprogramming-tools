@@ -9,6 +9,7 @@
 </div>
 
 <br />
+<img width="1920" height="952" alt="Nazmul&#39;sDeveloperToolkit" src="https://github.com/user-attachments/assets/eca4be9b-fe99-49c7-b2ac-5411ffda7555" />
 
 <div align="center">
   <img src="public/preview.png" alt="Nazmul's Toolkit Preview" width="100%" />
